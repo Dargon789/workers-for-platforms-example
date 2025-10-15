@@ -9,7 +9,7 @@
     "@cloudflare/d1": "^1.4.1",
     "@cloudflare/workers-types": "^4.20240329.0",
     "@typescript-eslint/eslint-plugin": "^5.37.0",
-    "@typescript-eslint/parser": "^5.37.0",
+    "@typescript-eslint/parser": "^8.44.1",
     "better-sqlite3": "^7.6.2",
     "eslint": "^8.23.1",
     "typescript": "^4.8.3",
